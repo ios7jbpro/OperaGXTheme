@@ -9,7 +9,6 @@ This is a FORK to remove the bg, and nothing else
 
 ## Table of Contents
   - [Installation](#installation)
-  - [Previews](#previews)
   - [Customizing Theme](#customizing-theme)
   - [Bugs/Issue/Suggestions](#bugsissuesuggestions)
   - [Contributing](#contributing)
@@ -58,10 +57,6 @@ This is a FORK to remove the bg, and nothing else
          - Customize everything you'd like to
   
 </details>
-
-## Previews
-
-they are the same as main theme with just no background
 
 ## Customizing Theme
 
