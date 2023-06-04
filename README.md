@@ -5,8 +5,7 @@
 OperaGXTheme is a highly customizable theme built off of trying to look like OperaGX
 
 
->This theme is being actively maintained by [him](https://github.com/L-Ratio)
->> This theme was orginally created by Discord Addons
+This is a FORK to remove the bg, and nothing else
 
 ## Table of Contents
   - [Installation](#installation)
@@ -28,7 +27,7 @@ OperaGXTheme is a highly customizable theme built off of trying to look like Ope
   <summary>Better Discord</summary>
 
    ### Installing
-1. Download the [theme](https://raw.githubusercontent.com/L-Ratio/OperaGXTheme/main/release/OperaGX.theme.css)
+1. Download the [theme](https://raw.githubusercontent.com/ios7jbpro/OperaGXTheme/main/release/OperaGX.theme.css)
    - Extract the `theme.css` to your BD theme folder
      -  Enable it in settings
 ### Customization
@@ -49,10 +48,10 @@ OperaGXTheme is a highly customizable theme built off of trying to look like Ope
   <summary>VenCord</summary>
 
    ### Installing
-1. Copy `https://l-ratio.github.io/OperaGXTheme/release/OperaGX.theme.css`
+1. Copy `https://raw.githubusercontent.com/ios7jbpro/OperaGXTheme/main/release/OperaGX.theme.css`
    - Paste it in themes
   ### Customization
-1. Copy everything in `https://l-ratio.github.io/OperaGXTheme/release/OperaGX.theme.css`
+1. Copy everything in `https://raw.githubusercontent.com/ios7jbpro/OperaGXTheme/main/release/OperaGX.theme.css`
    - Open Vencord settings
      - Click `Open QuickCSS File`
        - Paste everything in the window
@@ -62,21 +61,18 @@ OperaGXTheme is a highly customizable theme built off of trying to look like Ope
 
 ## Previews
 
-   images are currently out of date, they will be updated sometime
-![image](https://i.imgur.com/vzKM14l.png)
-![image](https://i.imgur.com/IZug1CP.png)
-![image](https://i.imgur.com/xzd0zq4.png)
+they are the same as main theme with just no background
 
 ## Customizing Theme
 
-   To customize the theme please refer to the `theme.css` file
+   To customize the theme please refer to the `OperaGX.theme.css` file
 
 ## Bugs/Issue/Suggestions
 
- For all bugs and/or issues please make a issue request. Same goes for suggestions as well
+ For all bugs and/or issues please make an issue request on the main repo
 
  You can make those [here](https://github.com/L-Ratio/OperaGXTheme/issues) or in the [Support Server](https://discord.gg/Xn7UUQUHbN)
 
 ## Contributing
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Pull requests are welcome on the main actual theme, I will add any new commits on here from there
